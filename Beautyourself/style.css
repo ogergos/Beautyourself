@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-style: italic;
+    font-size: 1.5em;
+}
+.navbar-item{
+    margin-top: 0.5em;
+}
+img{
+    max-width: 60vw;
+    height: auto;
+    margin: 1vw 0;
+    margin-right: 1.2vw;
+    box-shadow: 3px 3px 2px black;
+    transition: transform 1s;
+}
+img:hover{
+    transform: scale(1.1, 1.1);
+}
+
+@media only screen and (min-width:576px){
+    .navbar-brand{
+        margin-right: 30vw;
+    }
+}
