@@ -1,4 +1,4 @@
-# Beautyourself-
+# Beautyourself
 
 index.html為主頁面，index1.html、index2.html、index3.html為分頁。
 
